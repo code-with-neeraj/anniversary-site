@@ -58,9 +58,9 @@ export default function Home() {
   // Add your photos here
   const photos = [
     { src: "/image.jpg", alt: "Us together" },
-    { src: "/image2.png", alt: "Special moment" },
+    { src: "/image2.jpg", alt: "Special moment" },
     { src: "/image.jpg", alt: "Happy times" },
-    { src: "/image2.png", alt: "Memories" },
+    { src: "/image2.jpg", alt: "Memories" },
   ]
 
   // Change this message according to you
