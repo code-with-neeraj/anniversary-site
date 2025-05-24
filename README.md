@@ -61,12 +61,7 @@ npm run dev
 
 ---
 
-## 🌐 Connect with Me
 
-- 📸 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-- 📺 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
 
 ---
 
