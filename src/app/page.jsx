@@ -12,7 +12,7 @@ import FloatingElements from "@/components/FloatingElements"
 import TapToReveal from "@/components/TapToReveal"
 
 // Change this to your anniversary date
-const ANNIVERSARY_DATE = "2025-05-27T00:00:00"
+const ANNIVERSARY_DATE = "2025-05-24T00:00:00"
 // Change this to the date you got together
 const TOGETHER_DATE = "2021-05-27T00:00:00"
 
@@ -88,7 +88,11 @@ but I thank the universe every single day for crossing our paths.
 May this bond only grow deeper, stronger, and more beautiful with time.
 
 With all the love I have,
-Forever yours,`
+Forever yours,
+
+ab aap pe kala jadu ho chuka hai--
+dubara link ko open nahi karan tha,
+ab aapko phele jayesa hone se koy nahi rok sakta..-`
 
   return (
     <main className="min-h-screen overflow-x-hidden bg-gradient-to-br from-pink-100 via-purple-50 to-blue-100">
